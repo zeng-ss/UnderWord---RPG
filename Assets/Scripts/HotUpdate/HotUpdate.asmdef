@@ -1,0 +1,29 @@
+{
+    "name": "HotUpdate",
+    "rootNamespace": "",
+    "references": [
+        "GUID:12ebec52c0cec1744bf1b379ba664820",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:1491147abca9d7d4bb7105af628b223e",
+        "GUID:8d9e84799a3968d4ba38c55892d14093",
+        "GUID:4307f53044263cf4b835bd812fc161a4",
+        "GUID:3b8ed52f1b5c64994af4c4e0aa4b6c4b",
+        "GUID:9e24947de15b9834991c9d8411ea37cf",
+        "GUID:15fc0a57446b3144c949da3e2b9737a9",
+        "GUID:84651a3751eca9349aac36a66bba901b",
+        "GUID:df380645f10b7bc4b97d4f5eb6303d95",
+        "GUID:f2d49d9fa7e7eb3418e39723a7d3b92f",
+        "GUID:1f1e873e8764c1f4c83eeb0259bad0c2"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [
+        "SFB.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
